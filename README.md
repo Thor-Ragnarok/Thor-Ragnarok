@@ -5,6 +5,3 @@
 
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Thor-Ragnarok/&title=Profile%20Views)   [![telegram badge](https://img.shields.io/badge/𝐓𝐡𝐨𝐫.𝐑𝐚𝐠𝐧𝐚𝐫𝐨𝐤​-30302f?style=flat&logo=telegram)](https://telegram.dog/Mjolnir_Dp)
-
-
-
